@@ -7,6 +7,8 @@ This project uses [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 ## [Unreleased]
 
+## [0.1.0] - 2026-08-12
+
 ### Added
 
 - `blunt` — prose linter that checks text against word lists for banned words, marketing language, clichés, weak sentence structure, and more.
