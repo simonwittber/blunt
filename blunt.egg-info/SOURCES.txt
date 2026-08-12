@@ -1,7 +1,0 @@
-blunt.py
-pyproject.toml
-blunt.egg-info/PKG-INFO
-blunt.egg-info/SOURCES.txt
-blunt.egg-info/dependency_links.txt
-blunt.egg-info/entry_points.txt
-blunt.egg-info/top_level.txt
