@@ -6,7 +6,8 @@
       "Bash(python blunt.py --human)",
       "Bash(rtk diff *)",
       "Bash(python *)",
-      "Bash(start *)"
+      "Bash(start *)",
+      "Bash(rtk read *)"
     ]
   }
 }
