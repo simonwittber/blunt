@@ -1,0 +1,17 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "blunt"
+version = "0.1.0"
+description = "Prose linter for technical English"
+requires-python = ">=3.8"
+dependencies = ["litellm", "tomli; python_version < '3.11'"]
+
+[project.scripts]
+blunt = "blunt:main"
+blunt-fix = "blunt_fix:main"
+
+[tool.setuptools]
+py-modules = ["blunt", "blunt_fix"]

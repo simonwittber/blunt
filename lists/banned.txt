@@ -1,0 +1,71 @@
+# Overly formal words — use simpler alternatives
+commence
+commences
+commenced
+utilize
+utilizes
+utilizing
+utilization
+leverage
+leverages
+leveraging
+facilitate
+facilitates
+facilitating
+demonstrate
+demonstrates
+demonstrating
+obtain
+obtains
+acquire
+acquires
+initiates
+aforementioned
+henceforth
+herein
+therein
+amongst
+furthermore
+additionally
+moreover
+comprehensively
+
+# Vague quantities — use a specific number
+numerous
+myriad
+plethora
+a variety of
+
+# Wordy phrases — use shorter alternatives
+in order to
+in the event that
+due to the fact that
+it is important to note
+
+# AI writing slop
+delve
+delves
+delving
+crucial
+crucially
+foster
+fosters
+fostering
+nuanced
+multifaceted
+realm
+embark
+embarks
+embarking
+testament
+pivotal
+paramount
+meticulous
+meticulously
+intricate
+intricately
+noteworthy
+invaluable
+elucidate
+elucidates
+commendable

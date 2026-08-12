@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(rtk ls *)",
+      "Bash(rtk grep *)",
+      "Bash(python blunt.py --human)",
+      "Bash(rtk diff *)",
+      "Bash(python *)",
+      "Bash(start *)"
+    ]
+  }
+}
